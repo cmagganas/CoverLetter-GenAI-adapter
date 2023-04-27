@@ -8,4 +8,4 @@ app_file: app.py
 pinned: false
 license: bigscience-openrail-m
 
-[!](CoverLetter-GenAI-adapter.png)
+![HuggingFace Space Demo Screenshot](CoverLetter-GenAI-adapter.png)
